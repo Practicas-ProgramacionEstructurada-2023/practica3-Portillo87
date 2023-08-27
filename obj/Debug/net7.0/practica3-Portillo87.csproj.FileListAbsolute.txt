@@ -2,3 +2,13 @@ C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3
 C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\obj\Debug\net7.0\practica3-Portillo87.AssemblyInfoInputs.cache
 C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\obj\Debug\net7.0\practica3-Portillo87.AssemblyInfo.cs
 C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\obj\Debug\net7.0\practica3-Portillo87.csproj.CoreCompileInputs.cache
+C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\bin\Debug\net7.0\practica3-Portillo87.exe
+C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\bin\Debug\net7.0\practica3-Portillo87.deps.json
+C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\bin\Debug\net7.0\practica3-Portillo87.runtimeconfig.json
+C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\bin\Debug\net7.0\practica3-Portillo87.dll
+C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\bin\Debug\net7.0\practica3-Portillo87.pdb
+C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\obj\Debug\net7.0\practica3-Portillo87.dll
+C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\obj\Debug\net7.0\refint\practica3-Portillo87.dll
+C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\obj\Debug\net7.0\practica3-Portillo87.pdb
+C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\obj\Debug\net7.0\practica3-Portillo87.genruntimeconfig.cache
+C:\Users\PEDIDOS.SECO\Desktop\PROGRAMACION ESTRUCTURADA #2\Repositorio_Practica3\practica3-Portillo87\obj\Debug\net7.0\ref\practica3-Portillo87.dll
